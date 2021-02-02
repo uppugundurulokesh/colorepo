@@ -34,3 +34,18 @@ s.no|s.name|s.marks
 1|abc|99
 2|bbc|89
 3|hcv|98
+
+
+# insert image:
+![alt myimg](gitimg.png)
+
+
+# insert a code
+Exaplain about sum of two numbers using python
+
+    a=4
+    b=6
+    c=a+b
+    print("the sum {} and {} is {}".format(a,b,c))
+
+
