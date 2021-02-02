@@ -9,7 +9,21 @@ java is ooops program
 
 # what are the oops concepts in java
 * class and object
+  * class
+    * object
 * Inheritance
 * Abstraction
 * Polymorphism
 * Encapulation
+
+# ordered list:
+1. one
+2. two
+
+# Tell me obout your college:
+My college name is **Andhra Loyola College**
+
+# Create a link
+The syntax for create a link in markdown [text](url)
+
+Ex: [Google](https://www.google.com)
